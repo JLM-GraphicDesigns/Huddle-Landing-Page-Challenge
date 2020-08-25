@@ -63,10 +63,23 @@ p {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: #95A7FC; }
 
-.icons {
+.fa-facebook-square {
+  color: #ffffff;
+  padding: 200px 100px 0 0;
+  position: absolute;
+  right: 50px;
+}
+
+.fa-twitter-square {
+  color: #ffffff;
+  padding: 200px 60px 0 0;
+  position: absolute;
+  right: 50px;
+}
+
+.fa-instagram-square {
   color: #ffffff;
   padding: 200px 20px 0 0;
   position: absolute;
   right: 50px;
-
 }
